@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Prompt Efficiency Suite Documentation
+    url: https://prompt-efficiency-suite.io/docs
+    about: Check our documentation before opening an issue
+  - name: API Status
+    url: https://status.prompt-efficiency-suite.io
+    about: Check our API status page for service information
